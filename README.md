@@ -1,3 +1,5 @@
+About Me:
+
 Hi there! welcome to my profile 🤝!
 
 "I'm Swarna Aarthi Swaminathan, a passionate AI enthusiast and a fresher in the field, eager to learn and apply machine learning, deep learning, and NLP to build intelligent solutions. 🚀"
